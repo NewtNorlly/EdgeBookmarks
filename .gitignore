@@ -1,0 +1,8 @@
+# private plaintext + passphrase — never commit
+private/
+
+# local tooling
+node_modules/
+.DS_Store
+Thumbs.db
+*.log
