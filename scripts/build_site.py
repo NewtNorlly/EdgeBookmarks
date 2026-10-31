@@ -104,7 +104,7 @@ def main():
   <meta name="color-scheme" content="light">
   <meta name="theme-color" content="#ffffff">
   <meta name="robots" content="noindex, nofollow">
-  <meta name="description" content="Edge Bookmarks — 269 条公开收藏的网络书签页。">
+  <meta name="description" content="Edge Bookmarks — {public_count} 条公开收藏的网络书签页。">
   <title>网络书签 / Edge Bookmarks</title>
   <link rel="icon" href="./favicon.svg" type="image/svg+xml">
   <link rel="stylesheet" href="./assets/styles.css">
@@ -117,7 +117,7 @@ def main():
     </div>
     <div class="topbar-meta">
       <p><span class="red">{public_count}</span> 条公开收藏</p>
-      <p>最后整理 2026.10</p>
+      <p>最后整理 2026.11</p>
     </div>
   </header>
 

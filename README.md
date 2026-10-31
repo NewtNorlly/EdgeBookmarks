@@ -7,9 +7,9 @@
 ## 这个仓库是什么
 
 - `site/`：GitHub Pages 静态站点，无 JavaScript、无外部依赖。
-- `site/index.html`：由 `scripts/build_site.py` 生成的公开书签页（269 条）。
-- `site/data/bookmarks.json`：公开书签数据（A/B/C/S/D 五级，269 条）。
-- `site/bookmarks-import.html`：269 条公开书签的可导入版本。
+- `site/index.html`：由 `scripts/build_site.py` 生成的公开书签页（229 条）。
+- `site/data/bookmarks.json`：公开书签数据（A/B/C/S/D 五级，229 条）。
+- `site/bookmarks-import.html`：229 条公开书签的可导入版本。
 - `scripts/build_site.py`：把书签数据生成静态 HTML。
 - `.github/workflows/deploy.yml`：push 到 `main` 后自动生成并部署 Pages。
 
@@ -19,12 +19,12 @@
 
 | 层级 | 内容 | 数量 |
 |---|---|---:|
-| A | 学术资源、正版影视 | 50 |
-| B | 阅读、开发、影视、工具 | 83 |
+| A | 学术资源、正版影视 | 49 |
+| B | 阅读、开发、影视、工具 | 73 |
 | C | 影视资源（第三方小站） | 34 |
-| S | 私人记录与自有资产 | 61 |
-| D | 敏感内容 | 41 |
-| **合计** |  | **269** |
+| S | 私人记录与自有资产 | 34 |
+| D | 敏感内容 | 39 |
+| **合计** |  | **229** |
 
 ## 页面设计
 

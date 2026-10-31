@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-10-31T00:25:10+08:00",
+  "generatedAt": "2026-11-01T03:49:55+08:00",
   "source": "Edge收藏夹_最终整理版_2026-10-30.html",
-  "publicCount": 269,
+  "publicCount": 229,
   "levels": [
     {
       "id": "A",
       "title": "A 级 · 重要",
       "subtitle": "学术资源、正版影视",
-      "count": 50,
+      "count": 49,
       "categories": [
         {
           "name": "学术·文献·语言学习",
-          "count": 50
+          "count": 49
         }
       ]
     },
@@ -19,19 +19,19 @@
       "id": "B",
       "title": "B 级 · 一般有用",
       "subtitle": "阅读、开发、影视、工具",
-      "count": 83,
+      "count": 73,
       "categories": [
         {
           "name": "阅读·深度内容",
-          "count": 43
+          "count": 39
         },
         {
           "name": "开发·代码仓库",
-          "count": 26
+          "count": 21
         },
         {
           "name": "工具·效率",
-          "count": 11
+          "count": 10
         },
         {
           "name": "影视·正版平台",
@@ -55,15 +55,15 @@
       "id": "S",
       "title": "S 级 · 绝不能删",
       "subtitle": "私人记录与自有资产",
-      "count": 61,
+      "count": 34,
       "categories": [
         {
           "name": "私人备忘（我重命名过）",
-          "count": 44
+          "count": 20
         },
         {
           "name": "自有资产（站点/仓库/账号）",
-          "count": 17
+          "count": 14
         }
       ]
     },
@@ -71,11 +71,11 @@
       "id": "D",
       "title": "D 级 · 敏感内容",
       "subtitle": "敏感内容（由你自行决定）",
-      "count": 41,
+      "count": 39,
       "categories": [
         {
           "name": "敏感内容",
-          "count": 41
+          "count": 39
         }
       ]
     }
@@ -114,16 +114,6 @@
     {
       "level": "S",
       "category": "私人备忘（我重命名过）",
-      "title": "武大樱顶",
-      "url": "https://github.com/NewtNorlly/Camera0303/blob/main/IMG_20250327_163759.jpg",
-      "domain": "github.com",
-      "monogram": "G",
-      "added": 1774352950,
-      "id": "S-004"
-    },
-    {
-      "level": "S",
-      "category": "私人备忘（我重命名过）",
       "title": "Unlocker安装包",
       "url": "https://github.com/NewtNorlly/Softwares03",
       "domain": "github.com",
@@ -140,236 +130,6 @@
       "monogram": "G",
       "added": 1775584602,
       "id": "S-006"
-    },
-    {
-      "level": "S",
-      "category": "私人备忘（我重命名过）",
-      "title": "雪花的微信头像",
-      "url": "https://github.com/NewtNorlly/archive-comic-illustrated-text/blob/main/DFile_103.png",
-      "domain": "github.com",
-      "monogram": "G",
-      "added": 1776342488,
-      "id": "S-007"
-    },
-    {
-      "level": "S",
-      "category": "私人备忘（我重命名过）",
-      "title": "甲辰手写代码",
-      "url": "https://github.com/NewtNorlly/YiSGengChenJiWei07/blob/main/IMG_20241109_102706.jpg",
-      "domain": "github.com",
-      "monogram": "G",
-      "added": 1776343104,
-      "id": "S-008"
-    },
-    {
-      "level": "S",
-      "category": "私人备忘（我重命名过）",
-      "title": "提交入党申请书",
-      "url": "https://github.com/NewtNorlly/YiSGengChenJiWei08/blob/main/IMG_20241227_122429.jpg",
-      "domain": "github.com",
-      "monogram": "G",
-      "added": 1776343746,
-      "id": "S-009"
-    },
-    {
-      "level": "S",
-      "category": "私人备忘（我重命名过）",
-      "title": "入党申请书原文",
-      "url": "https://github.com/NewtNorlly/YiSGengChenJiWei10/blob/main/IMG_20250319_104419.jpg",
-      "domain": "github.com",
-      "monogram": "G",
-      "added": 1776345416,
-      "id": "S-010"
-    },
-    {
-      "level": "S",
-      "category": "私人备忘（我重命名过）",
-      "title": "310四人帮",
-      "url": "https://github.com/NewtNorlly/WechatPictures/blob/main/mmexport1751384815805.jpg",
-      "domain": "github.com",
-      "monogram": "G",
-      "added": 1782315505,
-      "id": "S-011"
-    },
-    {
-      "level": "S",
-      "category": "私人备忘（我重命名过）",
-      "title": "大公报",
-      "url": "https://github.com/NewtNorlly/WeiyunPhoto_02/blob/main/microsoft_edge_screenshot_2022%E5%B9%B412%E6%9C%8831%E6%97%A5%20GMT%2B08_00%20%E4%B8%8B%E5%8D%8810_27_33.png",
-      "domain": "github.com",
-      "monogram": "G",
-      "added": 1782312965,
-      "id": "S-012"
-    },
-    {
-      "level": "S",
-      "category": "私人备忘（我重命名过）",
-      "title": "故事依然在书写",
-      "url": "https://github.com/NewtNorlly/YiSGengChenJiChou39/blob/main/1000038891.jpg",
-      "domain": "github.com",
-      "monogram": "G",
-      "added": 1782311743,
-      "id": "S-013"
-    },
-    {
-      "level": "S",
-      "category": "私人备忘（我重命名过）",
-      "title": "和妈妈通话",
-      "url": "https://github.com/NewtNorlly/WeiyunPhoto_02/blob/main/Screenshot_20220210_231744.jpg",
-      "domain": "github.com",
-      "monogram": "G",
-      "added": 1782314270,
-      "id": "S-014"
-    },
-    {
-      "level": "S",
-      "category": "私人备忘（我重命名过）",
-      "title": "互联网信息排泄链",
-      "url": "https://github.com/NewtNorlly/Pictures0217/blob/main/mmexport1762573041705.png",
-      "domain": "github.com",
-      "monogram": "G",
-      "added": 1782313830,
-      "id": "S-015"
-    },
-    {
-      "level": "S",
-      "category": "私人备忘（我重命名过）",
-      "title": "户口后生光盘",
-      "url": "https://github.com/NewtNorlly/Pictures0217/blob/main/%E6%B9%96%E5%8F%A3%E5%90%8E%E7%94%9F%E5%85%89%E7%9B%98.jpg",
-      "domain": "github.com",
-      "monogram": "G",
-      "added": 1782313744,
-      "id": "S-016"
-    },
-    {
-      "level": "S",
-      "category": "私人备忘（我重命名过）",
-      "title": "黄冈中学预录小纸条",
-      "url": "https://github.com/NewtNorlly/WeiyunPhoto_01/blob/main/IMG_20220308_225838.jpg",
-      "domain": "github.com",
-      "monogram": "G",
-      "added": 1782312807,
-      "id": "S-017"
-    },
-    {
-      "level": "S",
-      "category": "私人备忘（我重命名过）",
-      "title": "黄梅一中预录准考证",
-      "url": "https://github.com/NewtNorlly/WeiyunPhoto_01/blob/main/IMG_20220308_225902.jpg",
-      "domain": "github.com",
-      "monogram": "G",
-      "added": 1782312773,
-      "id": "S-018"
-    },
-    {
-      "level": "S",
-      "category": "私人备忘（我重命名过）",
-      "title": "漫漫姐姐订婚",
-      "url": "https://github.com/NewtNorlly/WeiyunPhoto_01/blob/main/IMG_20220501_110642.jpg",
-      "domain": "github.com",
-      "monogram": "G",
-      "added": 1782315744,
-      "id": "S-019"
-    },
-    {
-      "level": "S",
-      "category": "私人备忘（我重命名过）",
-      "title": "奶油猫",
-      "url": "https://github.com/NewtNorlly/WechatPictures/blob/main/mmexport1745481100848.jpg",
-      "domain": "github.com",
-      "monogram": "G",
-      "added": 1782315647,
-      "id": "S-020"
-    },
-    {
-      "level": "S",
-      "category": "私人备忘（我重命名过）",
-      "title": "你以为的你",
-      "url": "https://github.com/NewtNorlly/Pictures0215/blob/main/%E4%BD%A0%E4%BB%A5%E4%B8%BA%E7%9A%84%E4%BD%A0.jpeg",
-      "domain": "github.com",
-      "monogram": "G",
-      "added": 1782313626,
-      "id": "S-021"
-    },
-    {
-      "level": "S",
-      "category": "私人备忘（我重命名过）",
-      "title": "苏东坡传",
-      "url": "https://github.com/NewtNorlly/WeiyunPhoto_02/blob/main/microsoft_edge_screenshot_2022%E5%B9%B45%E6%9C%8831%E6%97%A5%20GMT%2B08_00%20%E4%B8%8B%E5%8D%8810_52_37.png",
-      "domain": "github.com",
-      "monogram": "G",
-      "added": 1782312994,
-      "id": "S-022"
-    },
-    {
-      "level": "S",
-      "category": "私人备忘（我重命名过）",
-      "title": "所以你们全都读过我的书",
-      "url": "https://github.com/NewtNorlly/Pictures0213/blob/main/114780417577716672.png",
-      "domain": "github.com",
-      "monogram": "G",
-      "added": 1782313942,
-      "id": "S-023"
-    },
-    {
-      "level": "S",
-      "category": "私人备忘（我重命名过）",
-      "title": "踏实肯干颇有成就",
-      "url": "https://github.com/NewtNorlly/Pictures0213/blob/main/93752117578569722.png",
-      "domain": "github.com",
-      "monogram": "G",
-      "added": 1782313682,
-      "id": "S-024"
-    },
-    {
-      "level": "S",
-      "category": "私人备忘（我重命名过）",
-      "title": "我的湖口后生",
-      "url": "https://github.com/NewtNorlly/WechatPictures/blob/main/mmexport1751202261999.jpg",
-      "domain": "github.com",
-      "monogram": "G",
-      "added": 1782315886,
-      "id": "S-025"
-    },
-    {
-      "level": "S",
-      "category": "私人备忘（我重命名过）",
-      "title": "小资本家们",
-      "url": "https://github.com/NewtNorlly/WechatPictures/blob/main/thumbIMG_20241119_152013.jpg",
-      "domain": "github.com",
-      "monogram": "G",
-      "added": 1782315467,
-      "id": "S-026"
-    },
-    {
-      "level": "S",
-      "category": "私人备忘（我重命名过）",
-      "title": "余少军老师讲数学课",
-      "url": "https://github.com/NewtNorlly/WeiyunPhoto_02/blob/main/mmexport1671711834230.png",
-      "domain": "github.com",
-      "monogram": "G",
-      "added": 1782312676,
-      "id": "S-027"
-    },
-    {
-      "level": "S",
-      "category": "私人备忘（我重命名过）",
-      "title": "中国丧心病狂",
-      "url": "https://github.com/NewtNorlly/WeiyunPhoto_02/blob/main/qifb19470518-01.1.1-3038-477-2134-2546-2134w.jpg",
-      "domain": "github.com",
-      "monogram": "G",
-      "added": 1782313086,
-      "id": "S-028"
-    },
-    {
-      "level": "S",
-      "category": "私人备忘（我重命名过）",
-      "title": "Linux小企鹅",
-      "url": "https://github.com/NewtNorlly/Pictures0217/blob/main/mmexport1757298040335.png",
-      "domain": "github.com",
-      "monogram": "G",
-      "added": 1782313704,
-      "id": "S-029"
     },
     {
       "level": "S",
@@ -550,36 +310,6 @@
       "monogram": "H",
       "added": 1772285208,
       "id": "S-047"
-    },
-    {
-      "level": "S",
-      "category": "自有资产（站点/仓库/账号）",
-      "title": "Pictures0216/Bonny.jpg at main · NewtNorlly/Pictures0216",
-      "url": "https://github.com/NewtNorlly/Pictures0216/blob/main/Bonny.jpg",
-      "domain": "github.com",
-      "monogram": "G",
-      "added": 1772804546,
-      "id": "S-048"
-    },
-    {
-      "level": "S",
-      "category": "自有资产（站点/仓库/账号）",
-      "title": "NewtNorlly/archive-daily-life-scenes",
-      "url": "https://github.com/NewtNorlly/archive-daily-life-scenes",
-      "domain": "github.com",
-      "monogram": "G",
-      "added": 1779102565,
-      "id": "S-049"
-    },
-    {
-      "level": "S",
-      "category": "自有资产（站点/仓库/账号）",
-      "title": "YiSGengChenJiChou25/四川大学法学院讲师梅帅.jpg at main · NewtNorlly/YiSGengChenJiChou25",
-      "url": "https://github.com/NewtNorlly/YiSGengChenJiChou25/blob/main/%E5%9B%9B%E5%B7%9D%E5%A4%A7%E5%AD%A6%E6%B3%95%E5%AD%A6%E9%99%A2%E8%AE%B2%E5%B8%88%E6%A2%85%E5%B8%85.jpg",
-      "domain": "github.com",
-      "monogram": "G",
-      "added": 1782311479,
-      "id": "S-050"
     },
     {
       "level": "S",
@@ -1084,16 +814,6 @@
     {
       "level": "A",
       "category": "学术·文献·语言学习",
-      "title": "Imran Hossain :: Varendra University",
-      "url": "https://vu.edu.bd/academics/departments/political-science/faculty-members/02556/imran-hossain",
-      "domain": "vu.edu.bd",
-      "monogram": "V",
-      "added": 1759858321,
-      "id": "A-040"
-    },
-    {
-      "level": "A",
-      "category": "学术·文献·语言学习",
       "title": "大学体育2024秋SPOC_中国大学MOOC(慕课)",
       "url": "https://www.icourse163.org/spoc/learn/HUST-1471706186?tid=1473266514#/learn/content?type=detail&id=1259807646&cid=1295413810&sm=1",
       "domain": "icourse163.org",
@@ -1564,46 +1284,6 @@
     {
       "level": "B",
       "category": "阅读·深度内容",
-      "title": "ShiPing0316/《纲要》明确！培养拔尖孩子不是选出来提前学提前考.jpg at main · NewtNorlly/ShiPing0316",
-      "url": "https://github.com/NewtNorlly/ShiPing0316/blob/main/%E3%80%8A%E7%BA%B2%E8%A6%81%E3%80%8B%E6%98%8E%E7%A1%AE%EF%BC%81%E5%9F%B9%E5%85%BB%E6%8B%94%E5%B0%96%E5%AD%A9%E5%AD%90%E4%B8%8D%E6%98%AF%E9%80%89%E5%87%BA%E6%9D%A5%E6%8F%90%E5%89%8D%E5%AD%A6%E6%8F%90%E5%89%8D%E8%80%83.jpg",
-      "domain": "github.com",
-      "monogram": "G",
-      "added": 1793375341,
-      "id": "B-038"
-    },
-    {
-      "level": "B",
-      "category": "阅读·深度内容",
-      "title": "ShiPing0316/3个心流学习法 让学习像刷手机一样上头（by@牛津kate朱朱，牛津朱朱kate，禁止转载）.jpg at main · NewtNorlly/ShiPing0316",
-      "url": "https://github.com/NewtNorlly/ShiPing0316/blob/main/3%E4%B8%AA%E5%BF%83%E6%B5%81%E5%AD%A6%E4%B9%A0%E6%B3%95%20%20%E8%AE%A9%E5%AD%A6%E4%B9%A0%E5%83%8F%E5%88%B7%E6%89%8B%E6%9C%BA%E4%B8%80%E6%A0%B7%E4%B8%8A%E5%A4%B4%EF%BC%88by%40%E7%89%9B%E6%B4%A5kate%E6%9C%B1%E6%9C%B1%EF%BC%8C%E7%89%9B%E6%B4%A5%E6%9C%B1%E6%9C%B1kate%EF%BC%8C%E7%A6%81%E6%AD%A2%E8%BD%AC%E8%BD%BD%EF%BC%89.jpg",
-      "domain": "github.com",
-      "monogram": "G",
-      "added": 1793375341,
-      "id": "B-039"
-    },
-    {
-      "level": "B",
-      "category": "阅读·深度内容",
-      "title": "YinYun0316/400年了，我们衣冠终于要回来了.jpg at main · NewtNorlly/YinYun0316",
-      "url": "https://github.com/NewtNorlly/YinYun0316/blob/main/400%E5%B9%B4%E4%BA%86%EF%BC%8C%E6%88%91%E4%BB%AC%E8%A1%A3%E5%86%A0%E7%BB%88%E4%BA%8E%E8%A6%81%E5%9B%9E%E6%9D%A5%E4%BA%86.jpg",
-      "domain": "github.com",
-      "monogram": "G",
-      "added": 1793375341,
-      "id": "B-040"
-    },
-    {
-      "level": "B",
-      "category": "阅读·深度内容",
-      "title": "JiYiZhongDeTuJing0316/中国的传统婚服 你最喜欢那个朝代.jpg at main · NewtNorlly/JiYiZhongDeTuJing0316",
-      "url": "https://github.com/NewtNorlly/JiYiZhongDeTuJing0316/blob/main/%E4%B8%AD%E5%9B%BD%E7%9A%84%E4%BC%A0%E7%BB%9F%E5%A9%9A%E6%9C%8D%20%E4%BD%A0%E6%9C%80%E5%96%9C%E6%AC%A2%E9%82%A3%E4%B8%AA%E6%9C%9D%E4%BB%A3.jpg",
-      "domain": "github.com",
-      "monogram": "G",
-      "added": 1793375341,
-      "id": "B-041"
-    },
-    {
-      "level": "B",
-      "category": "阅读·深度内容",
       "title": "《钢铁是怎么炼成的》：我并非天生强大，依然能不负此生",
       "url": "https://mp.weixin.qq.com/s?__biz=MjM5MDMyMzg2MA==&mid=2656028569&idx=3&sn=13d7fba86c425ae1e5e510423eae3e25&chksm=bc88ddd3f0732751521d08ae2ddd86a5b0b6c0857644136dfdffd7eae9edf8dcd16b579582ab&mpshare=1&scene=24&srcid=04011lJro05N4boK3jI3CUP4&sharer_shareinfo=de906efb8fc977753f41021cd0b23be3&sharer_shareinfo_first=de906efb8fc977753f41021cd0b23be3#rd",
       "domain": "mp.weixin.qq.com",
@@ -1714,16 +1394,6 @@
     {
       "level": "B",
       "category": "开发·代码仓库",
-      "title": "📱 新媒体 | RSSHub",
-      "url": "https://docs.rsshub.app/zh/routes/new-media#%E5%85%AC%E4%BC%97%E5%8F%B7",
-      "domain": "docs.rsshub.app",
-      "monogram": "R",
-      "added": 1759066318,
-      "id": "B-053"
-    },
-    {
-      "level": "B",
-      "category": "开发·代码仓库",
       "title": "在线JSONPath解析器",
       "url": "https://www.lddgo.net/string/jsonpath",
       "domain": "lddgo.net",
@@ -1814,16 +1484,6 @@
     {
       "level": "B",
       "category": "开发·代码仓库",
-      "title": "NewtNorlly/Public-Utility-Management-Introduction: Course notes and learning resources for Introduction to Public Utility Management.",
-      "url": "https://github.com/NewtNorlly/Public-Utility-Management-Introduction",
-      "domain": "github.com",
-      "monogram": "G",
-      "added": 1793375341,
-      "id": "B-063"
-    },
-    {
-      "level": "B",
-      "category": "开发·代码仓库",
       "title": "NewtNorlly/Computational-Social-Science: A repository for storing course materials, slides and related resources of Computational Social Science. It aims to provide a systematic and organized collection of learning materials for students and researchers interested in this field.",
       "url": "https://github.com/NewtNorlly/Computational-Social-Science",
       "domain": "github.com",
@@ -1850,36 +1510,6 @@
       "monogram": "G",
       "added": 1793375341,
       "id": "B-066"
-    },
-    {
-      "level": "B",
-      "category": "开发·代码仓库",
-      "title": "NewtNorlly/ShiPing0316",
-      "url": "https://github.com/NewtNorlly/ShiPing0316",
-      "domain": "github.com",
-      "monogram": "G",
-      "added": 1793375341,
-      "id": "B-067"
-    },
-    {
-      "level": "B",
-      "category": "开发·代码仓库",
-      "title": "NewtNorlly/YinYun0316",
-      "url": "https://github.com/NewtNorlly/YinYun0316",
-      "domain": "github.com",
-      "monogram": "G",
-      "added": 1793375341,
-      "id": "B-068"
-    },
-    {
-      "level": "B",
-      "category": "开发·代码仓库",
-      "title": "NewtNorlly/JiYiZhongDeTuJing0316",
-      "url": "https://github.com/NewtNorlly/JiYiZhongDeTuJing0316",
-      "domain": "github.com",
-      "monogram": "G",
-      "added": 1793375341,
-      "id": "B-069"
     },
     {
       "level": "B",
@@ -1920,16 +1550,6 @@
       "monogram": "T",
       "added": 1739254465,
       "id": "B-073"
-    },
-    {
-      "level": "B",
-      "category": "工具·效率",
-      "title": "音视频内容 AI 一键总结丨BibiGPT 学习助理",
-      "url": "https://bibigpt.co/bibigpt-landing-v1",
-      "domain": "bibigpt.co",
-      "monogram": "B",
-      "added": 1740044260,
-      "id": "B-074"
     },
     {
       "level": "B",
@@ -2424,16 +2044,6 @@
     {
       "level": "D",
       "category": "敏感内容",
-      "title": "《水手服情色饲育》HD中字免费在线观看-伦理片全集-秋水影院",
-      "url": "https://www.heduhai.com/production/4921200-1-1.html",
-      "domain": "heduhai.com",
-      "monogram": "H",
-      "added": 1773504322,
-      "id": "D-007"
-    },
-    {
-      "level": "D",
-      "category": "敏感内容",
       "title": "韩国伦理电影 - 线上看 - ptt2.sbs",
       "url": "https://ptt2.sbs/p/1/c/33?area_id=17#new",
       "domain": "ptt2.sbs",
@@ -2740,16 +2350,6 @@
       "monogram": "O",
       "added": 1759862275,
       "id": "D-038"
-    },
-    {
-      "level": "D",
-      "category": "敏感内容",
-      "title": "ADN-392 看到未知世事的清纯妹子~凌辱监禁让她成为我的玩具女友~冈田雏乃-真心宝宝-zxbb~com|zxbb~tv|zxbb~lol|zxbb~org|zxbb~app",
-      "url": "https://20260112.zxbb9.xyz/index.php/vod/play/id/176728/sid/1/nid/1.html",
-      "domain": "20260112.zxbb9.xyz",
-      "monogram": "2",
-      "added": 1768228134,
-      "id": "D-039"
     },
     {
       "level": "D",
